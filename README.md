@@ -1,1 +1,1 @@
-# sample-getting-started-config
+# trader-config
